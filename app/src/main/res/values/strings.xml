@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChillieMouse</string>
+    <string name="select_guests">Select Guests</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_awesome">Awesome!</string>
+    <string name="content_button_awesome">Awesome Button. Press to return to the Guest Selection screen.</string>
+
+    <string name="reservation_select_reservation">These Guests Have Reservations</string>
+    <string name="reservation_select_no_reservation">These Guests Need Reservations</string>
+    <string name="reservation_select_reservation_needed">Reservation Needed</string>
+    <string name="reservation_select_list_info">At least one Guest in the party must have a reservation. Guests without reservations must remain in the same booking party in order to enter.</string>
+    <string name="reservation_select_continue_note_title">Reservation Needed</string>
+    <string name="reservation_select_continue_note_message">Select at least one Guest that has a reservation to continue.</string>
+
+    <string name="reservation_confirmation">Reservation will be Confirmed!</string>
+    <string name="reservation_conflict">Reservation has a conflict, please confirm.</string>
+
+
+    <string name="chillie_list_mode">List Mode: %s</string>
+    <string name="chillie_list_mode_to_long">Switch to Long List</string>
+    <string name="chillie_list_mode_to_short">Switch to Short List</string>
+    <string name="chillie_i_understand">No Worries!</string>
+    <string name="chillie_reset_reservations">Reset Reservations</string>
+    <string name="back_button">Back Button</string>
+    <string name="content_dismiss_reservation_note">Dismiss Button. Activate to dismiss this Reservation notice.</string>
+</resources>
